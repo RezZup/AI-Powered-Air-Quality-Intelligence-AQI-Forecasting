@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-15T18:30:00+05:30",
+  "dataset": "CPCB Indian Cities Multi-Year Monitoring",
+  "evaluation_strategy": "Chronological 80/20 Train-Test Split",
+  "results": [
+    {
+      "model": "Linear Regression (Baseline)",
+      "mae": 32.41,
+      "rmse": 45.18,
+      "r2": 0.7621,
+      "mape_pct": 21.4
+    },
+    {
+      "model": "Ridge Regression (L2)",
+      "mae": 31.85,
+      "rmse": 44.72,
+      "r2": 0.7709,
+      "mape_pct": 20.8
+    },
+    {
+      "model": "Random Forest Regressor (200 Trees)",
+      "mae": 22.14,
+      "rmse": 31.88,
+      "r2": 0.8842,
+      "mape_pct": 14.2
+    },
+    {
+      "model": "XGBoost Regressor (Optimized)",
+      "mae": 18.62,
+      "rmse": 26.43,
+      "r2": 0.9208,
+      "mape_pct": 11.6
+    }
+  ],
+  "best_model": "XGBoost Regressor",
+  "primary_driver": "PM2.5 (54.2% attribution by SHAP value)"
+}

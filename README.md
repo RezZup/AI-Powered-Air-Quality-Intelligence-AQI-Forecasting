@@ -3,7 +3,7 @@
 ### AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 | BharatCares
 
 **Author:** Gaurav Rajbhar
-**Repository:** https://github.com/Lightrex7749/AI-Powered-Air-Quality-Intelligence-AQI-Forecasting
+**Repository:** https://github.com/RezZup/AI-Powered-Air-Quality-Intelligence-AQI-Forecasting
 
 ---
 
@@ -241,7 +241,7 @@ Use Python 3.10 or newer and create an isolated virtual environment before
 installing the pinned dependencies:
 
 ```bash
-git clone https://github.com/Lightrex7749/AI-Powered-Air-Quality-Intelligence-AQI-Forecasting.git
+git clone https://github.com/RezZup/AI-Powered-Air-Quality-Intelligence-AQI-Forecasting.git
 cd AI-Powered-Air-Quality-Intelligence-AQI-Forecasting
 python -m venv .venv
 # macOS/Linux: source .venv/bin/activate

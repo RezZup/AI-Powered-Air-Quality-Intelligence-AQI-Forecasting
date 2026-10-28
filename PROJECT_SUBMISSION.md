@@ -2,7 +2,7 @@
 
 **Author:** Gaurav Rajbhar  
 **Program:** AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 | BharatCares  
-**Repository:** https://github.com/Lightrex7749/AI-Powered-Air-Quality-Intelligence-AQI-Forecasting
+**Repository:** https://github.com/RezZup/AI-Powered-Air-Quality-Intelligence-AQI-Forecasting
 
 ## Project Overview
 
